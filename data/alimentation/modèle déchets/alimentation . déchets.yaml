@@ -25,10 +25,16 @@ alimentation . déchets . quantité jetée:
       choix obligatoire: oui
       possibilités:
         - base
+        - effort
         - zéro déchet
 
 alimentation . déchets . quantité jetée . base:
-  titre: Je jette régulièrement
+  titre: Je ne fais pas attention à ma quantité de déchets
+  description: |
+    Le niveau de base qui suppose de n'avoir mis en place aucuns écogestes pour réduire le volume de ses poubelles.
+
+alimentation . déchets . quantité jetée . effort:
+  titre: J'essaie de limiter mes déchets
   description: |
     Vous considérez que vous jetez fréquemment des déchets et que vous avez encore des progrès à faire pour 
     atteindre le niveau zéro déchet. Vous mettez toutefois en place des éco-gestes pour réduire votre impact ?
