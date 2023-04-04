@@ -1,0 +1,10 @@
+params:
+  nom: Tunisie
+  code: TN
+  gentilé: tunisien
+  
+  intensité électricité:
+  titre: Intensité climat du mix électrique tunisien
+  formule: 0.463
+  note: |
+    [Base Empreinte ADEME] 2011
